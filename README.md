@@ -1,4 +1,4 @@
-# EE-376A
+# EE 376A: Rumor Spreading
 Rumor Spreading with Consistent Actors
 
 Author: Sarah Hensley
